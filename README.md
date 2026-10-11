@@ -5,13 +5,13 @@ A modern vanilla-plus equipment and mineral tier for Fabric 26.3.
 ![Minecraft](https://img.shields.io/badge/Minecraft-26.3-70a93c?style=flat-square)
 ![Loader](https://img.shields.io/badge/Loader-Fabric-dbb17e?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-25-ea7500?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL--3.0--only-845ec2?style=flat-square)
 
 ---
 
 ## Overview
 
-**Ruby Mod** seamlessly expands vanilla Minecraft progression by introducing deep subterranean ruby minerals, dedicated block decorations, and a full set of high-tier ruby tools and armor. Built natively for Fabric 26.3 with pure lightweight mechanics—no bloated GUIs, no custom keybinds, and no commands required.
+**Ruby Mod** expands vanilla Minecraft progression by introducing subterranean ruby minerals, decorative storage blocks, and a dedicated tier of ruby tools and armor. Built natively for Fabric 26.3 with pure lightweight mechanics—no extra GUIs, no custom keybinds, and zero commands required.
 
 ---
 
@@ -42,7 +42,7 @@ A modern vanilla-plus equipment and mineral tier for Fabric 26.3.
 
 ## Configuration
 
-Custom game balance parameters are stored under `config/rubymod.json`. Values can be edited directly while the server or singleplayer instance is offline.
+Custom balance parameters are saved under `config/rubymod.json`. Values can be edited directly while the server or singleplayer instance is offline.
 
 ```json
 {
