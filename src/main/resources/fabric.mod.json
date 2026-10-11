@@ -4,7 +4,10 @@
   "version": "${version}",
   "name": "Ruby Mod",
   "description": "Tier 6 rubies: gear stronger than Netherite, a full building set and ore generation.",
-  "authors": ["Your Name"],
+  "authors": ["MrBoss1017",
+  "MrBossGaming1017",
+  "HDfromMinecraft",
+  "Hatrick-Dev"],
   "contact": {
     "homepage": "https://github.com/your-name/ruby_mod",
     "sources": "https://github.com/your-name/ruby_mod"
