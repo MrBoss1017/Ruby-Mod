@@ -237,7 +237,7 @@ Server administrators and singleplayer worlds can adjust generation rates and eq
 ### Build Instructions
 
 #### Windows (PowerShell)
-```powershell
+powershell
 git clone [https://github.com/MrBoss1017/Ruby-Mod.git](https://github.com/MrBoss1017/Ruby-Mod.git)
 Set-Location Ruby-Mod
 .\gradlew.bat clean build
