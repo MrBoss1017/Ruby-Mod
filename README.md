@@ -242,6 +242,8 @@ git clone [https://github.com/MrBoss1017/Ruby-Mod.git](https://github.com/MrBoss
 Set-Location Ruby-Mod
 .\gradlew.bat clean build
 
+---
+
 ####Linux / MacOS (Bash)
 git clone [https://github.com/MrBoss1017/Ruby-Mod.git](https://github.com/MrBoss1017/Ruby-Mod.git)
 cd Ruby-Mod
